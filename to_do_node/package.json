@@ -1,0 +1,11 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "backend for managing to do's",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

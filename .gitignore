@@ -1,0 +1,10 @@
+to_do_node/node_modules
+to_do_react/node_modules
+
+to_do_node/.idea
+to_do_react/.idea
+
+to_do_node/package-lock.json
+to_do_react/yarn.lock
+
+.idea
